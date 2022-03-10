@@ -47,6 +47,8 @@ tags:
 
 ## Links
 
+![Mary Oliver quote](/static/img/pay_attention.jpg "Pay attention, be astonished, tell about it")
+
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Blockquotes
